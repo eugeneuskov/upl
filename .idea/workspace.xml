@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e0c339d8-8d2c-4301-bf20-0952d8d27ea1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploads/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.bowerrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vagrantfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/AppAsset.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/codeception.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/HelloController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/db.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/params.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/test_db.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/CategoryController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/ProductController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/ProgrammingController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/SiteController.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mail/layouts/html.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/m180921_023739_create_table_categories.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/m180921_023739_create_table_goods.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/m180921_023739_create_table_products.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/m180921_023739_create_table_programming.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/m180921_023756_insert_data_into_categories.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/m180921_023756_insert_data_into_goods.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/m180921_023756_insert_data_into_products.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/migrations/m180921_023756_insert_data_into_programming.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Categories.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Products.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/ProductsSearch.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/Programming.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/ProgrammingForm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/SearchCategoryForm.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/_bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/_data/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/_output/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/_support/AcceptanceTester.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/_support/FunctionalTester.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/_support/UnitTester.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/acceptance.suite.yml.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/acceptance/AboutCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/acceptance/ContactCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/acceptance/HomeCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/acceptance/LoginCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/acceptance/_bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/bin/yii" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/bin/yii.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/functional.suite.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/functional/ContactFormCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/functional/LoginFormCest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/functional/_bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit.suite.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/_bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/models/ContactFormTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/models/LoginFormTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/unit/models/UserTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vagrant/config/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vagrant/config/vagrant-local.example.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vagrant/nginx/app.conf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vagrant/nginx/log/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vagrant/provision/always-as-root.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vagrant/provision/once-as-root.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vagrant/provision/once-as-vagrant.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/category/_join.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/category/_relation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/category/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/layouts/main.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/product/edit.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/product/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/programming/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/site/error.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/site/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/assets/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/autocomplete.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/css/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index-test.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/js/autocomplete.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/Alert.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/AutoComplete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/widgets/views/autocomplete.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yii" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yii.bat" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-218767635">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="gitkeep" value="1" />
+          <entry key="htaccess" value="3" />
+          <entry key="js" value="2" />
+          <entry key="json" value="2" />
+          <entry key="php" value="67" />
+          <entry key="ts" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="JSON" value="2" />
+          <entry key="JavaScript" value="2" />
+          <entry key="PHP" value="67" />
+          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="TypeScript" value="2" />
+          <entry key="htaccess" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="60" />
+          <entry key="dummy" value="6" />
+          <entry key="htaccess" value="1" />
+          <entry key="js" value="1953" />
+          <entry key="php" value="9600" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="60" />
+          <entry key="JavaScript" value="1953" />
+          <entry key="PHP" value="9600" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="htaccess" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.php.new.class">
+        <counts>
+          <entry key="PHP Class.type" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/upload.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/upload.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-806">
+              <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/uploads/.gitkeep">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/web/.htaccess" />
+        <option value="$PROJECT_DIR$/config/db.php" />
+        <option value="$PROJECT_DIR$/models/ContactForm.php" />
+        <option value="$PROJECT_DIR$/views/product/edit.php" />
+        <option value="$PROJECT_DIR$/models/Products.php" />
+        <option value="$PROJECT_DIR$/views/product/view.php" />
+        <option value="$PROJECT_DIR$/view/product/index.php" />
+        <option value="$PROJECT_DIR$/controllers/ProductController.php" />
+        <option value="$PROJECT_DIR$/models/ProductsSearch.php" />
+        <option value="$PROJECT_DIR$/views/product/index.php" />
+        <option value="$PROJECT_DIR$/config/web.php" />
+        <option value="$PROJECT_DIR$/models/SearchCategoryForm.php" />
+        <option value="$PROJECT_DIR$/views/category/_relation.php" />
+        <option value="$PROJECT_DIR$/views/category/_join.php" />
+        <option value="$PROJECT_DIR$/views/category/index.php" />
+        <option value="$PROJECT_DIR$/controllers/CategoryController.php" />
+        <option value="$PROJECT_DIR$/models/ProgrammingForm.php" />
+        <option value="$PROJECT_DIR$/views/layouts/main.php" />
+        <option value="$PROJECT_DIR$/components/Autocomplete.php" />
+        <option value="$PROJECT_DIR$/widgets/Autocomplete.php" />
+        <option value="$PROJECT_DIR$/config/console.php" />
+        <option value="$PROJECT_DIR$/migrations/m180920_195530_insert_data_into_categories.php" />
+        <option value="$PROJECT_DIR$/migrations/m180921_023756_insert_data_into_categories.php" />
+        <option value="$PROJECT_DIR$/migrations/m180921_023756_insert_data_into_goods.php" />
+        <option value="$PROJECT_DIR$/migrations/m180921_023756_insert_data_into_products.php" />
+        <option value="$PROJECT_DIR$/migrations/m180921_023756_insert_data_into_programming.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/controllers/ProgrammingController.php" />
+        <option value="$PROJECT_DIR$/views/programming/index.php" />
+        <option value="$PROJECT_DIR$/widgets/AutoComplete.php" />
+        <option value="$PROJECT_DIR$/web/css/autocomplete.css" />
+        <option value="$PROJECT_DIR$/widgets/views/autocomplete.php" />
+        <option value="$PROJECT_DIR$/web/js/autocomplete.js" />
+        <option value="$PROJECT_DIR$/views/site/index.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/Upload.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/upload.php" />
+        <option value="$PROJECT_DIR$/js/upload.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/php-diff" />
+      <path value="$PROJECT_DIR$/vendor/codeception/specify" />
+      <path value="$PROJECT_DIR$/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/codeception/phpunit-wrapper" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/codeception/verify" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-debug" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-composer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-faker" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-gii" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2-swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/typeahead.js" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/bootstrap" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/jquery" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/punycode" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/yii2-pjax" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/bower-asset/inputmask" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/ezyang/htmlpurifier" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/yiisoft/yii2" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/cebe/markdown" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/codeception/base" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="293" />
+    <option name="y" value="53" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="uploads" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/migrations" />
+      <recent name="$PROJECT_DIR$/migrations/data" />
+      <recent name="$PROJECT_DIR$/widgets" />
+      <recent name="$PROJECT_DIR$/components" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0c339d8-8d2c-4301-bf20-0952d8d27ea1" name="Default Changelist" comment="" />
+      <created>1537390871728</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537390871728</updated>
+      <workItem from="1537390872997" duration="2960000" />
+      <workItem from="1537431360542" duration="3194000" />
+      <workItem from="1537449392774" duration="17065000" />
+      <workItem from="1537498785329" duration="4646000" />
+      <workItem from="1537793159128" duration="655000" />
+      <workItem from="1538037805322" duration="1525000" />
+      <workItem from="1538485891974" duration="2427000" />
+      <workItem from="1538489064891" duration="2667000" />
+      <workItem from="1538994213076" duration="7422000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42561000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="25" width="1920" height="1002" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11846318" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.15825687" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/models/ContactForm.php" />
+    <entry file="file://$PROJECT_DIR$/controllers/ProductsController.php" />
+    <entry file="file://$PROJECT_DIR$/view/product/index.php" />
+    <entry file="file://$PROJECT_DIR$/views/site/about.php" />
+    <entry file="file://$PROJECT_DIR$/models/LoginForm.php" />
+    <entry file="file://$PROJECT_DIR$/views/product/edit.php" />
+    <entry file="file://$PROJECT_DIR$/models/ProductsSearch.php" />
+    <entry file="file://$PROJECT_DIR$/controllers/ProductController.php" />
+    <entry file="file://$PROJECT_DIR$/views/product/index.php" />
+    <entry file="file://$PROJECT_DIR$/views/category/_relation.php" />
+    <entry file="file://$PROJECT_DIR$/controllers/CategoryController.php" />
+    <entry file="file://$PROJECT_DIR$/models/Categories.php" />
+    <entry file="file://$PROJECT_DIR$/views/category/_join.php" />
+    <entry file="file://$PROJECT_DIR$/views/category/index.php" />
+    <entry file="file://$PROJECT_DIR$/models/SearchCategoryForm.php" />
+    <entry file="file://$PROJECT_DIR$/models/Programming.php" />
+    <entry file="file://$PROJECT_DIR$/models/Products.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/helpers/BaseHtml.php" />
+    <entry file="file://$PROJECT_DIR$/widgets/Alert.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2/base/Widget.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2-bootstrap/src/Widget.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2-jui/Widget.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2-jui/InputWidget.php" />
+    <entry file="file://$PROJECT_DIR$/vendor/yiisoft/yii2-jui/AutoComplete.php" />
+    <entry file="file://$PROJECT_DIR$/config/web.php" />
+    <entry file="file://$PROJECT_DIR$/views/layouts/main.php" />
+    <entry file="file://$PROJECT_DIR$/widgets/Autocomplete.php" />
+    <entry file="file://$PROJECT_DIR$/migrations/m180920_195530_insert_data_into_categories.php" />
+    <entry file="file://$PROJECT_DIR$/config/console.php" />
+    <entry file="file://$PROJECT_DIR$/migrations/m180921_023739_create_table_categories.php" />
+    <entry file="file://$PROJECT_DIR$/migrations/m180921_023756_insert_data_into_categories.php" />
+    <entry file="file://$PROJECT_DIR$/migrations/m180921_023756_insert_data_into_goods.php" />
+    <entry file="file://$PROJECT_DIR$/migrations/m180921_023756_insert_data_into_products.php" />
+    <entry file="file://$PROJECT_DIR$/migrations/m180921_023756_insert_data_into_programming.php" />
+    <entry file="file://$PROJECT_DIR$/composer.json" />
+    <entry file="file://$PROJECT_DIR$/views/programming/index.php" />
+    <entry file="file://$PROJECT_DIR$/controllers/ProgrammingController.php" />
+    <entry file="file://$PROJECT_DIR$/widgets/AutoComplete.php" />
+    <entry file="file://$PROJECT_DIR$/assets/AppAsset.php" />
+    <entry file="file://$PROJECT_DIR$/web/css/autocomplete.css" />
+    <entry file="file://$PROJECT_DIR$/widgets/views/autocomplete.php" />
+    <entry file="file://$PROJECT_DIR$/models/ProgrammingForm.php" />
+    <entry file="file://$PROJECT_DIR$/web/js/autocomplete.js" />
+    <entry file="file://$PROJECT_DIR$/views/site/index.php" />
+    <entry file="file://$PROJECT_DIR$/test1_index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="62" column="62" selection-start-line="62" selection-start-column="62" selection-end-line="62" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="17103" column="17" selection-start-line="17103" selection-start-column="17" selection-end-line="17103" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/upload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-806">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
